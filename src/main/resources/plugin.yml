@@ -1,0 +1,8 @@
+name: UltraFoods
+version: ${project.version}
+main: net.ultravanilla.ultrafoods.UltraFoods
+api-version: 1.15
+prefix: UF
+authors: [Akoot_, mokono_]
+description: The ultimate food plugin for the UltraVanilla Minecraft server!
+website: https://ultravanilla.net/plugins/ultrafoods
